@@ -27,7 +27,7 @@ O código do projeto foi escrito em C++ e utiliza a biblioteca LiquidCrystal par
 
 ## Esquema de Montagem
 
-![Tinkercad](imgs/planta.png)
+![Tinkercad](imgs/projeto-tinkercad.png)
 
 ## Como Jogar
 
